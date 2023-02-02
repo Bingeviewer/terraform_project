@@ -1,0 +1,6 @@
+.terraform/providers/
+project_vp
+project_vp.pub
+.terraform.lock.hcl
+.terraform/
+ .idea/
